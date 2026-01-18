@@ -1,27 +1,7 @@
 # Hey, I'm Santosh 👋
 
-17 y/o IT Apprentice from Switzerland 🇨🇭
+I'm a 17-year-old from Switzerland currently doing an IT apprenticeship in application development. Besides my apprenticeship, I'm teaching myself Flutter and Dart because I genuinely love programming and want to build cool stuff.
 
-Currently teaching myself **Flutter & Dart** – and documenting the entire journey here.
+I'm documenting my entire learning journey here on GitHub – check out my [flutter-learning](https://github.com/santosh261208/flutter-learning) repo if you want to follow along.
 
-## What I'm up to
-
-- 🚀 Learning Flutter/Dart → [follow my progress](https://github.com/santosh261208/flutter-learning)
-- 💻 IT Apprenticeship (Application Development)
-- 📚 Learning Tamil on the side
-
-## About me
-
-- 🥋 Karate
-- 🎵 Music lover
-- 🎬 Videography & vlogs (soon™)
-- ✈️ Want to travel – Japan is the dream
-- 📺 Anime fan
-
-## Currently
-
-```
-📍 Switzerland
-🎯 Goal: Become a skilled developer
-📅 Day X of my coding journey...
-```
+Outside of coding, I train karate, listen to way too much music, watch anime, and dream about traveling to Japan one day. I'm also into videography and want to start making vlogs eventually.
