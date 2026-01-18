@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Santosh 👋
 
-<!--
-**santosh261208/santosh261208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17 y/o IT Apprentice from Switzerland 🇨🇭
 
-Here are some ideas to get you started:
+Currently teaching myself **Flutter & Dart** – and documenting the entire journey here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+
+- 🚀 Learning Flutter/Dart → [follow my progress](https://github.com/santosh261208/flutter-learning)
+- 💻 IT Apprenticeship (Application Development)
+- 📚 Learning Tamil on the side
+
+## About me
+
+- 🥋 Karate
+- 🎵 Music lover
+- 🎬 Videography & vlogs (soon™)
+- ✈️ Want to travel – Japan is the dream
+- 📺 Anime fan
+
+## Currently
+
+```
+📍 Switzerland
+🎯 Goal: Become a skilled developer
+📅 Day X of my coding journey...
+```
